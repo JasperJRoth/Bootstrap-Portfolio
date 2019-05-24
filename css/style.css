@@ -1,0 +1,16 @@
+.bg-primary{
+    background-color: #4aaa9c!important;
+}
+
+.text-primary{
+    color: #4aaa9c!important;
+}
+
+.bg-dark{
+    background-color: #666666!important;
+}
+
+a, a:hover{
+    color: darkgrey;
+    text-decoration: none;
+}
